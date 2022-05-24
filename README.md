@@ -11,6 +11,8 @@ Examples taken from:-
 
 http://www.iotsharing.com/2017/06/how-to-use-event-group-synchronizing-multiple-tasks-broadcasting-events.html
 
+https://learnesp32.com/videos/1/4_project%20walk%20through
+
 
 OUTPUTS:-
 
