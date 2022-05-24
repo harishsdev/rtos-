@@ -15,4 +15,9 @@ OUTPUTS:-
 
 13:37:16.591 -> Task2 is running on core 1
 
+2.Single task running
+
+task 1 is running continusly
+
+
 
