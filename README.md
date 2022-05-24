@@ -10,7 +10,9 @@ https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com
 OUTPUTS:-
 
 1.
+
 13:37:16.280 -> Task1 is running on core 0
+
 13:37:16.591 -> Task2 is running on core 1
 
 
